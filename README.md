@@ -1,2 +1,3 @@
 # hello-word
-king try to using  github
+国王试图使用github
+test 
